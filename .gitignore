@@ -3,4 +3,6 @@ __pycache__/
 whisper-tiny_quantized
 myenv/
 output/
-whisper*
+whisper-base.en
+whisper-tiny.en
+whisper-tiny
